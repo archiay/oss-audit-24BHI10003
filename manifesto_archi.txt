@@ -1,0 +1,17 @@
+========================================
+  MY OPEN SOURCE MANIFESTO
+  Generated on: 30 March 2026
+========================================
+
+Every day, I rely on Git — a tool built not for profit,
+but out of a belief that knowledge and code should be free.
+To me, freedom means independence. It is the same freedom that
+drives developers around the world to share their work openly.
+
+One day, I will build an open source AI tool and release it as open source,
+because the tools I use today exist because someone before me shared theirs.
+
+Open source is not just a license. It is a way of thinking.
+
+  — archi, 30 March 2026
+========================================

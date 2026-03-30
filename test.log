@@ -1,0 +1,6 @@
+INFO start
+ERROR disk full
+INFO ok
+ERROR timeout
+WARNING low mem
+ERROR crash
